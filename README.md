@@ -48,7 +48,7 @@ After running code there will be 3 lines for user input:
 
 # Algorithmic problem 2
 
-In this problem first we will check neighnbors of each element of matrix, then we will find country number as claimed by neighbors
+In this problem first we will check neighbors of each element of matrix, then we will find country number as claimed by neighbors
 
 ## Run solution
 
